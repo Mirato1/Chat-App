@@ -1,1 +1,11 @@
-# Chat-App
+# Chat App hecho con REACT
+
+Página creada con React y ***CHATENGINE***
+
+Usuarios para loguear: 
+  - Mirato
+    - 123123123
+  - Yamyy
+    - 123123123   
+
+## [Chat App](mirato-chat-app.netlify.app)
