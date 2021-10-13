@@ -8,4 +8,4 @@ Usuarios para loguear:
   - Yamyy
     - 123123123   
 
-## [Chat App](mirato-chat-app.netlify.app)
+## [Chat App](https://mirato-chat-app.netlify.app/)
